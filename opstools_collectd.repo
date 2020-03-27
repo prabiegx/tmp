@@ -1,0 +1,6 @@
+[opstools_collectd]
+name=opstools_collectd
+baseurl=http://mirror.centos.org/centos/8/opstools/x86_64/collectd-5/
+gpgcheck=0
+enabled=1
+module_hotfixes=1
